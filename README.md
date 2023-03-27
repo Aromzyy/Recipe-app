@@ -1,4 +1,5 @@
 # React Recipe App
+
 This is a recipe app built using React and Edamame API that allows users to browse through a wide range of recipes and view their images, ingredients, and calorie information.
 
 ## Getting Started

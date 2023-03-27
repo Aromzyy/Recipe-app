@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This React App enable you to search for  meal recipes, images and calorie count.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
